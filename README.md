@@ -9,7 +9,7 @@ Most production, client, and operational work is private. The public repositorie
 ## Selected Work
 
 - [Legitimacy Is Infrastructure](https://saucony.github.io/legitimacy-is-infrastructure/)  
-  Technical position paper on AI infrastructure and public accountability. I developed the argument and directed AI-assisted research, drafting and revision.
+  Technical position paper on AI infrastructure and public accountability.
 
 - [agent-runtime-pattern](https://github.com/saucony/agent-runtime-pattern)  
   Dependency-zero synthetic reference implementation for durable agent-runtime patterns: event logs, replay, authority gates, liveness checks, and proof artifacts.
